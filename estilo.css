@@ -1,0 +1,17 @@
+.titulo {
+    font-size: 50px;
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.txtAzul {
+    color: blue;
+}
+
+.txtRoxo {
+    color: purple;
+}
+
+.paragrafo{
+    line-height: 30px;
+}
